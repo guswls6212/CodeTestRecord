@@ -1,9 +1,5 @@
 package leehj.codetest.fizzbuzz;
 
-/**
- * @author LEEHYUNJIN
- *
- */
 public class FizzBuzzMain {
 	
 	/**
